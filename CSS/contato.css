@@ -3,7 +3,14 @@ nav li {
 	text-decoration: none;
 	text-transform: uppercase;
 }
-
+#banner {
+	width: 100%;
+} 
+body {
+	background: #29D9D9;
+	margin: 0;
+	padding: 0;
+}
 
 h1 {
     font-size: 50px;
